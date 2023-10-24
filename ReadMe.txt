@@ -1,5 +1,5 @@
 Akshata Bhonsle
-Programming Assignment 1 COEN 317
+
 
 Server.java class created to create a distributed web server. This class accepts parameters directory root path and the port to run.
 The Server class spawns a new thread for every client connection made. The request is parsed and validated for any errors. 
